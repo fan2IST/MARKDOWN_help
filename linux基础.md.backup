@@ -51,7 +51,7 @@ Sleep 休眠计算默认单位<br>
 linux系统的组成：linux内核、GNU组件、其他的必要应用程序<br>
 GNU全称：GNU's not unix<br>
 GNU的重要组件（Emacs,gcc,bash,gawk等）加上自己的内核构成了GNU自己的系统--->没用<br>
-目前所广泛使用的linux实际上全称应该称呼为GNU/LINUX 其中linux本身以及大部分软件遵循GPL<br>
+目前所广泛使用的linux实际上全称应该称呼为GNU/LINUX 其中linux本身大部分遵循GPL<br>
 GPL全称：General Public License 通用公共许可证，GPL的核心是保证任何人有共享和修改自由软件的自由，linux内核遵循GPL协议但不是GNU项目的部分
 
 
